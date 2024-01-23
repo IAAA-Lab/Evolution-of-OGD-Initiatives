@@ -1,0 +1,39 @@
+0,1290303931860619265,2021-12-31T07:26:35.000Z,['1476817041885650945'],"{'urls': [{'start': 121, 'end': 144, 'url': 'https://t.co/jbx6lx8geK', 'expanded_url': 'https://data.gv.at/covid-19/', 'display_url': 'data.gv.at/covid-19/', 'images': [{'url': 'https://pbs.twimg.com/news_img/1581628097249431554/yNnmVM5F?format=png&name=orig', 'width': 200, 'height': 200}, {'url': 'https://pbs.twimg.com/news_img/1581628097249431554/yNnmVM5F?format=png&name=150x150', 'width': 150, 'height': 150}], 'status': 200, 'title': 'Österreichisches COVID-19 Open Data Informationsportal | data.gv.at', 'description': 'Statistischen Informationen des Bundesministeriums für Soziales, Gesundheit, Pflege und Konsumentenschutz (BMSGPK) zur Ausbreitung des neuartigen Coronavirus (COVID-19, SARS-CoV-2) in Open Government Data Form', 'unwound_url': 'https://www.data.gv.at/covid-19/'}, {'start': 167, 'end': 190, 'url': 'https://t.co/6DVaXrzCTN', 'expanded_url': 'https://twitter.com/FleischerHannes/status/1476817041885650945/photo/1', 'display_url': 'pic.twitter.com/6DVaXrzCTN', 'media_key': '16_1476816957458505753'}], 'hashtags': [{'start': 145, 'end': 155, 'tag': 'covid19at'}, {'start': 156, 'end': 166, 'tag': 'omicronat'}]}",1476817041885650945,"{'retweet_count': 2, 'reply_count': 0, 'like_count': 3, 'quote_count': 0}",Twitter Web App,"Österreich, Fallzahlen laut EMS Morgenmeldung.
+𝟑𝟏.𝟏𝟐.𝟐𝟎𝟐𝟏: 𝟑.𝟕𝟏𝟖 (↑)
+𝟐𝟒.𝟏𝟐.𝟐𝟎𝟐𝟏: 𝟐.𝟐𝟕𝟐 (↓)
+𝟏𝟕.𝟏𝟐.𝟐𝟎𝟐𝟏: 𝟐.𝟓𝟑𝟐 (↓)
+Quelle: https://t.co/jbx6lx8geK
+#covid19at #omicronat https://t.co/6DVaXrzCTN","Austria case numbers according to the EMS morning report
+source
+Covid 19 Omicron"
+1,1473655972082114560,2021-12-30T11:38:51.000Z,['1476518138921603080'],"{'urls': [{'start': 117, 'end': 140, 'url': 'https://t.co/wG87HW1IdD', 'expanded_url': 'https://apps.static-access.net/ViennaTransport/about/', 'display_url': 'apps.static-access.net/ViennaTranspor…', 'status': 200, 'unwound_url': 'https://apps.static-access.net/ViennaTransport/about/'}, {'start': 141, 'end': 164, 'url': 'https://t.co/StkVy27Il3', 'expanded_url': 'https://www.data.gv.at/anwendungen/viennatransport-api/', 'display_url': 'data.gv.at/anwendungen/vi…', 'status': 200, 'unwound_url': 'https://www.data.gv.at/anwendungen/viennatransport-api/'}, {'start': 196, 'end': 219, 'url': 'https://t.co/qG99FKjy3m', 'expanded_url': 'https://twitter.com/floscodes/status/1476518138921603080/photo/1', 'display_url': 'pic.twitter.com/qG99FKjy3m', 'media_key': '3_1476518103743926276'}, {'start': 196, 'end': 219, 'url': 'https://t.co/qG99FKjy3m', 'expanded_url': 'https://twitter.com/floscodes/status/1476518138921603080/photo/1', 'display_url': 'pic.twitter.com/qG99FKjy3m', 'media_key': '3_1476518103853019144'}, {'start': 196, 'end': 219, 'url': 'https://t.co/qG99FKjy3m', 'expanded_url': 'https://twitter.com/floscodes/status/1476518138921603080/photo/1', 'display_url': 'pic.twitter.com/qG99FKjy3m', 'media_key': '3_1476518104087805955'}, {'start': 196, 'end': 219, 'url': 'https://t.co/qG99FKjy3m', 'expanded_url': 'https://twitter.com/floscodes/status/1476518138921603080/photo/1', 'display_url': 'pic.twitter.com/qG99FKjy3m', 'media_key': '3_1476518104305967108'}], 'annotations': [{'start': 0, 'end': 14, 'probability': 0.4399, 'type': 'Place', 'normalized_text': 'ViennaTransport'}, {'start': 44, 'end': 47, 'probability': 0.5388, 'type': 'Place', 'normalized_text': 'Rust'}, {'start': 55, 'end': 58, 'probability': 0.4922, 'type': 'Other', 'normalized_text': 'JSON'}, {'start': 167, 'end': 174, 'probability': 0.7774, 'type': 'Place', 'normalized_text': 'rustlang'}, {'start': 177, 'end': 180, 'probability': 0.8179, 'type': 'Place', 'normalized_text': 'rust'}, {'start': 183, 'end': 188, 'probability': 0.9711, 'type': 'Place', 'normalized_text': 'Vienna'}, {'start': 191, 'end': 194, 'probability': 0.9703, 'type': 'Place', 'normalized_text': 'Wien'}], 'hashtags': [{'start': 166, 'end': 175, 'tag': 'rustlang'}, {'start': 176, 'end': 181, 'tag': 'rust'}, {'start': 182, 'end': 189, 'tag': 'Vienna'}, {'start': 190, 'end': 195, 'tag': 'Wien'}]}",1476518138921603080,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 1, 'quote_count': 0}",Twitter Web App,"ViennaTransport - API.
+A project written in Rust.
+
+Get JSON real time data using sation, line and destination names.
+https://t.co/wG87HW1IdD
+https://t.co/StkVy27Il3
+
+#rustlang #rust #Vienna #Wien https://t.co/qG99FKjy3m","ViennaTransport  API
+A project written in Rust
+
+Get JSON real time data using sation line and destination names
+
+
+
+rustlang rust Vienna Wien "
+2,1290303931860619265,2021-12-30T07:22:54.000Z,['1476453728999903232'],"{'urls': [{'start': 121, 'end': 144, 'url': 'https://t.co/jbx6lx8geK', 'expanded_url': 'https://data.gv.at/covid-19/', 'display_url': 'data.gv.at/covid-19/', 'images': [{'url': 'https://pbs.twimg.com/news_img/1581628097249431554/yNnmVM5F?format=png&name=orig', 'width': 200, 'height': 200}, {'url': 'https://pbs.twimg.com/news_img/1581628097249431554/yNnmVM5F?format=png&name=150x150', 'width': 150, 'height': 150}], 'status': 200, 'title': 'Österreichisches COVID-19 Open Data Informationsportal | data.gv.at', 'description': 'Statistischen Informationen des Bundesministeriums für Soziales, Gesundheit, Pflege und Konsumentenschutz (BMSGPK) zur Ausbreitung des neuartigen Coronavirus (COVID-19, SARS-CoV-2) in Open Government Data Form', 'unwound_url': 'https://www.data.gv.at/covid-19/'}, {'start': 167, 'end': 190, 'url': 'https://t.co/Qlc29RXBla', 'expanded_url': 'https://twitter.com/FleischerHannes/status/1476453728999903232/photo/1', 'display_url': 'pic.twitter.com/Qlc29RXBla', 'media_key': '16_1476453626361040898'}], 'hashtags': [{'start': 145, 'end': 155, 'tag': 'covid19at'}, {'start': 156, 'end': 166, 'tag': 'omicronat'}]}",1476453728999903232,"{'retweet_count': 0, 'reply_count': 0, 'like_count': 2, 'quote_count': 0}",Twitter Web App,"Österreich, Fallzahlen laut EMS Morgenmeldung.
+𝟑𝟎.𝟏𝟐.𝟐𝟎𝟐𝟏: 𝟑.𝟐𝟐𝟑 (↑)
+𝟐𝟑.𝟏𝟐.𝟐𝟎𝟐𝟏: 𝟏.𝟗𝟗𝟎 (↓)
+𝟏𝟔.𝟏𝟐.𝟐𝟎𝟐𝟏: 𝟐.𝟒𝟖𝟔 (↓)
+Quelle: https://t.co/jbx6lx8geK
+#covid19at #omicronat https://t.co/Qlc29RXBla","Austria case numbers according to the EMS morning report
+source
+Covid 19 Omicron"
+3,1290303931860619265,2021-12-29T21:23:05.000Z,['1476302777995481097'],"{'urls': [{'start': 121, 'end': 144, 'url': 'https://t.co/kCMYXRa0gr', 'expanded_url': 'https://www.data.gv.at/covid-19/', 'display_url': 'data.gv.at/covid-19/', 'images': [{'url': 'https://pbs.twimg.com/news_img/1581628097249431554/yNnmVM5F?format=png&name=orig', 'width': 200, 'height': 200}, {'url': 'https://pbs.twimg.com/news_img/1581628097249431554/yNnmVM5F?format=png&name=150x150', 'width': 150, 'height': 150}], 'status': 200, 'title': 'Österreichisches COVID-19 Open Data Informationsportal | data.gv.at', 'description': 'Statistischen Informationen des Bundesministeriums für Soziales, Gesundheit, Pflege und Konsumentenschutz (BMSGPK) zur Ausbreitung des neuartigen Coronavirus (COVID-19, SARS-CoV-2) in Open Government Data Form', 'unwound_url': 'https://www.data.gv.at/covid-19/'}, {'start': 156, 'end': 179, 'url': 'https://t.co/WWMOYqEAlq', 'expanded_url': 'https://twitter.com/FleischerHannes/status/1476302777995481097/photo/1', 'display_url': 'pic.twitter.com/WWMOYqEAlq', 'media_key': '16_1476300767602565122'}], 'hashtags': [{'start': 145, 'end': 155, 'tag': 'omicronAT'}]}",1476302777995481097,"{'retweet_count': 1, 'reply_count': 2, 'like_count': 8, 'quote_count': 0}",Twitter Web App,"Inzidenzverlauf Österreich 14.12.2021 bis 28.12.2021
+𝟐𝟖.𝟏𝟐.𝟐𝟎𝟐𝟏: 𝟏𝟕𝟗 (🢆)
+𝟐𝟏.𝟏𝟐.𝟐𝟎𝟐𝟏: 𝟏𝟖𝟕 (🢆)
+𝟏𝟒.𝟏𝟐.𝟐𝟎𝟐𝟏: 𝟐𝟗𝟎 (🢆)
+Quelle: https://t.co/kCMYXRa0gr
+#omicronAT https://t.co/WWMOYqEAlq","Incidence of Austria 14122021 to 28122021
+source
+omicronate"
